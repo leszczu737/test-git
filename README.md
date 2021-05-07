@@ -1,3 +1,3 @@
 # test-git
-my name is jakub
+my name is Jakub Leszczak
 ogarniam gita
